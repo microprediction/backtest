@@ -20,3 +20,5 @@ watchdog
 fastparquet
 readwrite
 holidays
+ipython
+fpdf2
